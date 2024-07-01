@@ -71,10 +71,7 @@ SVG TOP STYLING
 .img{
     justify-self: center;
 }
-.img img{
-    border: 2px solid rgb(251, 102, 32);
-    border-radius: 50%;
-}
+
 .profile-info{
     align-self: center;
     text-align: center;    
