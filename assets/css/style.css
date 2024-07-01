@@ -240,6 +240,12 @@ RESPONSIVENESS
     position: relative;
     height: fit-content;
 }
+    .icons{
+    display: flex;
+    margin-top: 30px;
+    gap: 10px;
+    justify-content: center;
+}
     .footer{
         bottom: 1%;
     }
