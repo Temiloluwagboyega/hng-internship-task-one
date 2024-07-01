@@ -234,6 +234,15 @@ RESPONSIVENESS
     .head{
         font-size: 10px;
     }
+    .cards{
+    display: grid;
+    box-shadow: 2px 2px 13px rgb(224, 221, 221);
+    padding: 10px;
+    width: fit-content;
+    border-radius: 5px;
+    position: relative;
+    height: fit-content;
+}
     .footer{
         bottom: 1%;
     }
