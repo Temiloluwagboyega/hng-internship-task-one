@@ -229,7 +229,7 @@ RESPONSIVENESS
 }
 @media screen and (max-width:412px) {
     .main-content{
-        top: 20%;
+        top: 15%;
     }
     .head{
         font-size: 10px;
